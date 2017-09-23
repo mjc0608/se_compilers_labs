@@ -1,0 +1,5 @@
+let
+ var s := getchar()
+in
+ if (s="0") then printi(111)
+end
